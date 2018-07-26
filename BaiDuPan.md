@@ -1,5 +1,6 @@
 # Learning_Resource
 #一、基础
+
 IDA 逆向训练视频  链接：https://pan.baidu.com/s/1Oa3VxXC8NR7EVNFfsPQOJA 密码：3wxy   
 
 滴水逆向培训，第三期线上班 链接：https://pan.baidu.com/s/1KSMC9zB0DTsuWKiP340MRQ 密码：5gfm
